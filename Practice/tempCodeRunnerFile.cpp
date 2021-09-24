@@ -1,1 +1,1 @@
-num = (num - lastdigit
+        cout<< sum;
